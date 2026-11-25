@@ -1,8 +1,8 @@
 # Roast Your Own Operator in One Line
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![entry](https://img.shields.io/badge/entry-1%20line%20%E2%89%A4140%20chars-brightgreen)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
-[![status](https://img.shields.io/badge/status-submitted-success)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![make.fun](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![Rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/upinhuy/roast-your-own-operator/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![Reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/upinhuy/roast-your-own-operator/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 
 Entry for the [make.fun](https://make.fun) bounty
 **Roast Your Own Operator in One Line**
